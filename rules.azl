@@ -1,0 +1,13 @@
+property manner {nasal, plosive, fricative, liquid}
+property place {labial, dental, alveolar, palatal, velar, uvular, laryngeal}
+property voice {voiced, unvoiced}
+
+symbol 'n' w/ nasal, alveolar, voiced;
+
+~~~
+
+
+[
+    [] 0
+    [] 1
+]
